@@ -10,6 +10,8 @@ module.exports = class extends Generator {
   }
 
   writing() {
+    this.fs.copy(this.templatePath('tsconfig.json'), this.destinationPath('tsconfig.json'));
+    this.fs.copy(this.templatePath('tslint.json'), this.destinationPath('tslint.json'));
     this.fs.copy(this.templatePath('settings.json'), this.destinationPath('.vscode/settings.json'));
   }
 
