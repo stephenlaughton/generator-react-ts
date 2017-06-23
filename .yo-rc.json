@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Stephen Laughton",
+      "authorEmail": "stephenlaughton@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
