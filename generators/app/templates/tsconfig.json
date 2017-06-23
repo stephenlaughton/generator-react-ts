@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "jsx": "react-native",
+    "sourceMap": true,
+    "sourceRoot": "./",
+    "moduleResolution": "Node",
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "pretty": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "lib": [
+      "dom",
+      "es2017"
+    ]
+  },
+  "exclude": [
+    "node_modules",
+    ".vscode"
+  ]
+}

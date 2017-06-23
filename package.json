@@ -1,6 +1,6 @@
 {
   "name": "generator-react-ts",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "My Yeoman Generator for React/Typescript projects.",
   "homepage": "https://github.com/stephenlaughton/generator-react-ts",
   "author": {
