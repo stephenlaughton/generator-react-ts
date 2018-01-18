@@ -31,9 +31,9 @@ module.exports = class extends Generator {
         '@types/react-navigation',
         'jest',
         'tslint',
+        'tslint-config-prettier',
         'tslint-eslint-rules',
         'tslint-react',
-        'tslint-eslint-rules',
         'typescript'
       ],
       { dev: true }
